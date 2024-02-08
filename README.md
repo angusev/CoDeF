@@ -1,7 +1,8 @@
-# CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
-<img src='docs/teaser.gif'></img>
+# HeyGen ❤️ Superwoman
+<img src='docs/heygen_red.gif'></img>
 
+## CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 [Hao Ouyang](https://ken-ouyang.github.io/)\*, [Qiuyu Wang](https://github.com/qiuyu96/)\*, [Yuxi Xiao](https://henry123-boy.github.io/)\*, [Qingyan Bai](https://scholar.google.com/citations?user=xUMjxi4AAAAJ&hl=en), [Juntao Zhang](https://github.com/JordanZh), [Kecheng Zheng](https://scholar.google.com/citations?user=hMDQifQAAAAJ), [Xiaowei Zhou](https://xzhou.me/),
 [Qifeng Chen](https://cqf.io/)&#8224;, [Yujun Shen](https://shenyujun.github.io/)&#8224; (*equal contribution, &#8224;corresponding author)
 
